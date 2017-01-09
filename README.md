@@ -12,6 +12,6 @@ for operation (at a 12 Volt rated voltage), and can carry a payload of 300 gr.
 
 
 In this repository, you can find all instructions, drivers and simulations for the UPAT Delta Robot.<br>
-  -Instructions can be found in the "" pdf.
+  -Instructions can be found in the "" pdf,<br>
   -Drivers are located in the ROS_codes folder and  
-  -Simulations are located in the Gazebo_codes folder
+  -Simulations are located in the Gazebo_codes folder.
