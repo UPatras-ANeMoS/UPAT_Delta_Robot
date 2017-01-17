@@ -1,0 +1,17 @@
+<package>
+  <name>arduino</name>
+  <version>1.2.4</version>
+  <description>
+  This package provides serial_board raw data capability.
+  </description>
+  <maintainer email="georgiosntekoumes@gmail.com">Georgios Ntekoumes</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+</package>
