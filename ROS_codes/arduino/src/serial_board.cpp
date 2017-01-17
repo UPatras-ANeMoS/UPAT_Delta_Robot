@@ -1,3 +1,11 @@
+/****************************************************************
+ *  phidget.cpp							*
+ *  								*
+ *  Created by Georgios Ntekoumes on December 2016		*
+ *  Copyrights © 2016 Georgios Ntekoumes. All rights reserved.  *
+ *							        *
+ ****************************************************************/
+
 //#include "../include/serial_board.h"
 #include "../include/serial_board.h"
 
