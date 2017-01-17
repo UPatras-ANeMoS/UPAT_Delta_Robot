@@ -1,3 +1,11 @@
+/****************************************************************
+ *  phidget.cpp							*
+ *  								*
+ *  Created by Georgios Ntekoumes on December 2016		*
+ *  Copyrights © 2016 Georgios Ntekoumes. All rights reserved.  *
+ *							        *
+ ****************************************************************/
+
 #include "ros/ros.h"
 #include "std_msgs/Int8MultiArray.h"
 #include "std_msgs/String.h"
